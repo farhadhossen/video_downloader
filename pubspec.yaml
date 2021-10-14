@@ -37,6 +37,9 @@ dependencies:
   flowder: ^0.2.0
   path_provider: ^2.0.5
   flutter_downloader: ^1.7.1
+  permission_handler: ^8.2.2
+  android_path_provider: ^0.3.0
+  device_info: ^2.0.2
 
 dev_dependencies:
   flutter_test:
